@@ -1,2 +1,2 @@
 # trello-clone
-A Sample Trello Clone
+A Sample Trello Clone (Vue App)
